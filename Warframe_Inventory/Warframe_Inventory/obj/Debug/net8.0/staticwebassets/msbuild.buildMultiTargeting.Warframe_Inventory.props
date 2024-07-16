@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Warframe_Inventory.props" />
+</Project>
