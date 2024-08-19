@@ -8,8 +8,8 @@ namespace Warframe_Inventory.Entities
     {
         public int WarframeId { get; set; }
 
-        [Required, MaxLength(100, ErrorMessage = "Name cannot exceed 100 characters")]
-        public string Name { get; set; }
+        [Required, MaxLength(100, ErrorMessage = "O nome não pode exceder 100 characters")]
+        public string? Name { get; set; }
 
         [Required, Range(0, 99)]
         public int Blueprints { get; set; }

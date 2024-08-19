@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Warframe_Inventory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89a5b50a94f997f7a8b2f4f881707d900c560415")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2d2d83bfe24147767d457c2ffcea0bda2b2ec68")]
 [assembly: System.Reflection.AssemblyProductAttribute("Warframe_Inventory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Warframe_Inventory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
