@@ -1,9 +1,18 @@
+using Microsoft.EntityFrameworkCore;
+using Warframe_Inventory.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddScoped<AppDbContext>();
+
+builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlite("Data Source=Warframe_Inventory.sqlite"));
+
 var app = builder.Build();
+
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

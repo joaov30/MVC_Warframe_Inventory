@@ -10,11 +10,7 @@ namespace Warframe_Inventory.Data
         { }
         public DbSet<Warframe> Warframes { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlite("Data Source=Warframe_Inventory.sqlite");
-            base.OnConfiguring(optionsBuilder);
-        }
+        
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
