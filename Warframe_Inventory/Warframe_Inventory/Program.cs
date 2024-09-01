@@ -10,7 +10,7 @@ builder.Services.AddScoped<AppDbContext>();
 
 // Configuração do DbContext para usar MySQL
 builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseMySQL("Server=localhost;Database=Warframe_Inventory;User=root;Password=yourpassword;")
+    options.UseMySQL("Server=localhost;Database=Warframe_Inventory;User=root;Password=12345;")
     
     );
 

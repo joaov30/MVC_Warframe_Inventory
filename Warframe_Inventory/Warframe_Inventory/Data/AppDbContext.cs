@@ -11,11 +11,12 @@ namespace Warframe_Inventory.Data
         public DbSet<Warframe> Warframes { get; set; }
 
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+       /* protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
             optionsBuilder.UseMySQL("Server=localhost;Database=Warframe_Inventory;User=root;Password=yourpassword;");
         }
+       */
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
