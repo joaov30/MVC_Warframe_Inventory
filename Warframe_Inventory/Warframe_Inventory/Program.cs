@@ -8,7 +8,11 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<AppDbContext>();
 
-builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlite("Data Source=Warframe_Inventory.sqlite"));
+// Configuração do DbContext para usar MySQL
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseMySQL("Server=localhost;Database=Warframe_Inventory;User=root;Password=yourpassword;")
+    
+    );
 
 var app = builder.Build();
 
