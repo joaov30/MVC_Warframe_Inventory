@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Warframe_Inventory.Data;
 
@@ -11,8 +12,10 @@ builder.Services.AddScoped<AppDbContext>();
 // Configuração do DbContext para usar MySQL
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseMySQL("Server=localhost;Database=Warframe_Inventory;User=root;Password=12345;")
-    
     );
+
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+    .AddEntityFrameworkStores<AppDbContext>();
 
 var app = builder.Build();
 

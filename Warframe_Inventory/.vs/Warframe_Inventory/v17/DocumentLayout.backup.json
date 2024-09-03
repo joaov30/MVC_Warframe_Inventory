@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Warframe_Inventory\\Program.cs",
               "ToolTip": "J:\\TI\\CRUDs\\MVC_Warframe_Inventory\\Warframe_Inventory\\Warframe_Inventory\\Program.cs",
               "RelativeToolTip": "Warframe_Inventory\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T20:37:42.864Z",
               "EditorCaption": ""
@@ -43,7 +43,8 @@
               "RelativeToolTip": "Warframe_Inventory\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T20:07:41.19Z"
+              "WhenOpened": "2024-09-03T20:07:41.19Z",
+              "EditorCaption": ""
             }
           ]
         }
