@@ -236,3 +236,9 @@ J:\TI\CRUDs\MVC_Warframe_Inventory\Warframe_Inventory\Warframe_Inventory\bin\Deb
 J:\TI\CRUDs\MVC_Warframe_Inventory\Warframe_Inventory\Warframe_Inventory\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 J:\TI\CRUDs\MVC_Warframe_Inventory\Warframe_Inventory\Warframe_Inventory\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 J:\TI\CRUDs\MVC_Warframe_Inventory\Warframe_Inventory\Warframe_Inventory\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\TI\CRUDs\MVC_Warframe_Inventory\Warframe_Inventory\Warframe_inventory\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+J:\TI\CRUDs\MVC_Warframe_Inventory\Warframe_Inventory\Warframe_inventory\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+J:\TI\CRUDs\MVC_Warframe_Inventory\Warframe_Inventory\Warframe_inventory\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+J:\TI\CRUDs\MVC_Warframe_Inventory\Warframe_Inventory\Warframe_inventory\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+J:\TI\CRUDs\MVC_Warframe_Inventory\Warframe_Inventory\Warframe_inventory\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+J:\TI\CRUDs\MVC_Warframe_Inventory\Warframe_Inventory\Warframe_inventory\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
