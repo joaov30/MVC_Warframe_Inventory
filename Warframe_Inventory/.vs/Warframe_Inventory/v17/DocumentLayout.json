@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "J:\\TI\\CRUDs\\MVC_Warframe_Inventory\\Warframe_Inventory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C0B0DE2-3B69-4B48-9861-8534830A16FF}|Warframe_Inventory\\Warframe_Inventory.csproj|j:\\ti\\cruds\\mvc_warframe_inventory\\warframe_inventory\\warframe_inventory\\controllers\\warframescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C0B0DE2-3B69-4B48-9861-8534830A16FF}|Warframe_Inventory\\Warframe_Inventory.csproj|solutionrelative:warframe_inventory\\controllers\\warframescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C0B0DE2-3B69-4B48-9861-8534830A16FF}|Warframe_Inventory\\Warframe_Inventory.csproj|j:\\ti\\cruds\\mvc_warframe_inventory\\warframe_inventory\\warframe_inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C0B0DE2-3B69-4B48-9861-8534830A16FF}|Warframe_Inventory\\Warframe_Inventory.csproj|solutionrelative:warframe_inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C0B0DE2-3B69-4B48-9861-8534830A16FF}|Warframe_Inventory\\Warframe_Inventory.csproj|j:\\ti\\cruds\\mvc_warframe_inventory\\warframe_inventory\\warframe_inventory\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C0B0DE2-3B69-4B48-9861-8534830A16FF}|Warframe_Inventory\\Warframe_Inventory.csproj|solutionrelative:warframe_inventory\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C0B0DE2-3B69-4B48-9861-8534830A16FF}|Warframe_Inventory\\Warframe_Inventory.csproj|j:\\ti\\cruds\\mvc_warframe_inventory\\warframe_inventory\\warframe_inventory\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0B0DE2-3B69-4B48-9861-8534830A16FF}|Warframe_Inventory\\Warframe_Inventory.csproj|solutionrelative:warframe_inventory\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WarframesController.cs",
-              "DocumentMoniker": "J:\\TI\\CRUDs\\MVC_Warframe_Inventory\\Warframe_Inventory\\Warframe_Inventory\\Controllers\\WarframesController.cs",
-              "RelativeDocumentMoniker": "Warframe_Inventory\\Controllers\\WarframesController.cs",
-              "ToolTip": "J:\\TI\\CRUDs\\MVC_Warframe_Inventory\\Warframe_Inventory\\Warframe_Inventory\\Controllers\\WarframesController.cs",
-              "RelativeToolTip": "Warframe_Inventory\\Controllers\\WarframesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "J:\\TI\\CRUDs\\MVC_Warframe_Inventory\\Warframe_Inventory\\Warframe_Inventory\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Warframe_Inventory\\Controllers\\AccountController.cs",
+              "ToolTip": "J:\\TI\\CRUDs\\MVC_Warframe_Inventory\\Warframe_Inventory\\Warframe_Inventory\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Warframe_Inventory\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAIwDYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T22:33:53.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "J:\\TI\\CRUDs\\MVC_Warframe_Inventory\\Warframe_Inventory\\Warframe_Inventory\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Warframe_Inventory\\Data\\AppDbContext.cs",
-              "ToolTip": "J:\\TI\\CRUDs\\MVC_Warframe_Inventory\\Warframe_Inventory\\Warframe_Inventory\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Warframe_Inventory\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T21:39:38.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "J:\\TI\\CRUDs\\MVC_Warframe_Inventory\\Warframe_Inventory\\Warframe_Inventory\\Program.cs",
-              "RelativeDocumentMoniker": "Warframe_Inventory\\Program.cs",
-              "ToolTip": "J:\\TI\\CRUDs\\MVC_Warframe_Inventory\\Warframe_Inventory\\Warframe_Inventory\\Program.cs",
-              "RelativeToolTip": "Warframe_Inventory\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T20:37:42.864Z",
+              "WhenOpened": "2024-09-09T23:07:11.278Z",
               "EditorCaption": ""
             }
           ]
